@@ -79,4 +79,4 @@ class ContactService {
 
 }
 
-module.exports = ContactSerice;
+module.exports = ContactService;

@@ -2,18 +2,19 @@
   "name": "contactbook-backend",
   "version": "1.0.0",
   "main": "server.js",
-  "scripts": {
+  "script": {
     "start": "nodemon server.js"
   },
   "author": "Thanh Long",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.18.1",
-    "mongodb": "^4.10.0",
+    "express": "^4.18.2",
+    "mongodb": "^4.10.0"
+  },
+  "devDependencies": {
     "nodemon": "^2.0.20"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/longb1906708/Cai-dat-du-an.git"
